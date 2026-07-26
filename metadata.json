@@ -1,0 +1,6 @@
+{
+  "name": "Чекунец Калькулятор",
+  "description": "Калькулятор с наливающейся чекушкой, звуковыми эффектами, выпиванием и автоматическим заказом напитков в баре!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
